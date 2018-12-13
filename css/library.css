@@ -23,5 +23,5 @@
 }
 .source-icon-hidepass {
   background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x); 
+  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
 }
