@@ -27,4 +27,13 @@ $( document ).ready(function() {
 		}
 		
 	});
+	
+	 //$("input.form-control").focus(function() {
+//      $('.link_footer').addClass('hide');       
+//    });
+//	
+//	$('input.form-control').blur(function(){
+//	  $('.link_footer').removeClass('hide');
+//	});
+    
 });

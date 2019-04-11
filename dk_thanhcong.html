@@ -75,11 +75,18 @@
 			<div class="another_login">
 				<span class="text">Đăng nhập bằng</span>
 			</div>
-			<div class="row justify-content-center">
-				<div class="col-lg-6 col-md-6 col-6 align-self-center">
+			<div class="row justify-content-md-center">
+				
+				<div class="col-lg-5 col-6">
 					<div class="brn btn-primary btn-facebook">
 						<span class="icon_facebook"></span>
 						<span class="text">Facebook</span>
+					</div>
+				</div>
+				<div class="col-lg-5 col-6">
+					<div class="brn btn-primary btn-google">
+						<span class="icon_google"></span>
+						<span class="text">Google</span>
 					</div>
 				</div>
 			</div>
@@ -88,6 +95,17 @@
 	<p class="link_footer">
 		<span class="text">Bạn chưa có tài khoản? <a class="link_primary">Đăng ký</a></span>
 	</p>
+	
+	<!-- Modal -->
+	<div class="modal fade" id="ShowSuccess" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	  <div class="modal-dialog modal-dialog-centered modal-270" role="document">
+		<div class="modal-content">
+		  <div class="modal-body">
+			<p class="text text-center">Chúc mừng bạn tạo tài khoản thành công.</p>
+		  </div>
+		</div>
+	  </div>
+	</div>
 	<!-- InstanceEndEditable -->
    
     <!--Footer-->
@@ -99,7 +117,11 @@
 
 
 <!-- InstanceBeginEditable name="footer" -->
-
+<script type="text/javascript">
+    $(window).on('load',function(){
+        $('#ShowSuccess').modal('show');
+    });
+</script>
 <!-- InstanceEndEditable -->
 
 <!-- InstanceEnd --></html>

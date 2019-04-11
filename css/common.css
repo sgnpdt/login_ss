@@ -9,21 +9,81 @@
   -o-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
   -ms-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
 }
+/*.source-icon-back{
+	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
+	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);  
+}
+.source-icon-clear{
+	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
+	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+}
+.source-icon-showpass{
+	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
+	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+}
+.source-icon-hidepass{
+	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
+	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x,
+						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+}*/
 .source-icon-back {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);
+  background-image: url(../images/icon_back.png);
+  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
+}
+.source-icon-close {
+  background-image: url(../images/icon_close.png);
+  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
 }
 .source-icon-clear {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+  background-image: url(../images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
 }
 .source-icon-showpass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+  background-image: url(../images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
 }
 .source-icon-hidepass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
+}
+.source-logo {
+  background-image: url(../images/logo_login.png);
+  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
+}
+.source-bg-login {
+  background-image: url(../images/bg_login.png);
+  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
+}
+.source-icon-phone_username {
+  background-image: url(../images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
+}
+.source-icon-pass {
+  background-image: url(../images/icon_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
+}
+.source-icon-facebook {
+  background-image: url(../images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
+}
+.source-icon-google {
+  background-image: url(../images/icon_google.png);
+  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
+}
+.source-icon-phone {
+  background-image: url(../images/icon_phone.png);
+  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
+}
+.source-icon-device {
+  background-image: url(../images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
 }
 .Shows-xs {
   display: none !important;
@@ -122,12 +182,17 @@
 [data-aos=zoom-in] {
   transform: scale(0.9);
 }
+html {
+  height: 100%;
+  font-size: 100%;
+}
 body {
   font-family: "roboto";
-  font-size: 14px;
+  font-size: 0.825em;
   height: 100%;
   background-color: #000000;
   overflow-x: auto;
+  padding-top: 56px;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -142,9 +207,6 @@ body {
   /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
 }
-html {
-  height: 100%;
-}
 .right {
   float: right;
 }
@@ -152,7 +214,7 @@ html {
   float: left;
 }
 p {
-  font-size: 16px;
+  font-size: 1em;
 }
 a {
   cursor: pointer;
@@ -164,9 +226,12 @@ a {
 }
 @media (hover: hover) {
   a:hover {
-    color: #ffc72c !important;
+    color: #ffd200 !important;
     text-decoration: none;
   }
+}
+.hide {
+  display: none;
 }
 a[x-apple-data-detectors] {
   color: inherit !important;
@@ -224,7 +289,7 @@ ul {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   border: none;
-  background-color: #ffc72c;
+  background-color: #ffd200;
   color: #000000 !important;
 }
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -238,23 +303,32 @@ ul {
 }
 .text {
   color: rgba(255, 255, 255, 0.7);
-  font-size: 14px;
+  font-size: 0.825em;
 }
 .btn-primary {
-  background-color: #ffc72c;
-  color: #000000 !important;
-  text-transform: uppercase;
-  font-weight: 700;
+  background-color: #ffd200;
+  color: #2c1000 !important;
+  font-size: 0.825em;
   padding: 0px 24px;
   text-align: center;
-  font-size: 16px;
   border-radius: 2px;
-  height: 40px;
-  line-height: 40px;
+  height: 38px;
+  line-height: 38px;
+  font-weight: bold;
 }
 .btn-primary:hover {
-  background-color: #ffc72c;
+  background-color: #ffd200;
   color: #000000 !important;
+}
+.disable {
+  background-color: transparent;
+  color: #666 !important;
+  border: 1px solid #666;
+}
+.disable:hover {
+  background-color: transparent !important;
+  color: #666 !important;
+  border: 1px solid #666 !important;
 }
 .group_form {
   position: relative;
@@ -262,24 +336,187 @@ ul {
 .form-control,
 .form-control:focus {
   height: 40px;
-  background-color: rgba(255, 255, 255, 0.12);
-  font-size: 16px;
   border: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  font-size: 0.825em;
   box-shadow: none;
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
   border-radius: 2px;
   margin-bottom: 24px;
+  background-color: transparent;
+  margin-bottom: 8px;
 }
 .invalid-feedback {
   position: relative;
   top: 0;
-  margin-top: -12px;
-  margin-bottom: 12px;
-  color: #f8485e;
-  font-size: 11px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #ec2231;
+  font-size: 10px;
+}
+.hc-input-single {
+  position: relative;
+  padding: 4px 0 4px 24px;
+  text-align: left;
+  display: inline-block;
+  margin-right: 0px;
+}
+.hc-input-single label {
+  font-weight: normal;
+  cursor: pointer;
+  font-size: 0.75em;
+  color: #fff;
+}
+.hc-input-single label:before,
+.hc-input-single label:after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  border-radius: 50%;
+}
+.hc-input-single label:before {
+  left: 0;
+  width: 16px;
+  height: 16px;
+  margin: -13px 0 0;
+  background-color: transparent;
+  border: 1px solid #ffc72c;
+}
+.hc-input-single label:after {
+  left: 3px;
+  width: 10px;
+  height: 10px;
+  margin: -10px 0 0;
+  opacity: 0;
+  background: #ffc72c;
+  transform: translate3d(-40px, 0, 0) scale(0.5);
+  transition: opacity 0.25s ease-in-out, transform 0.25s ease-in-out;
+}
+.hc-input-single input[type="radio"],
+.hc-input-single input[type="checkbox"] {
+  position: absolute;
+  top: 0;
+  left: -9999px;
+  visibility: hidden;
+}
+.hc-input-single input[type="radio"]:checked + label:after,
+.hc-input-single input[type="checkbox"]:checked + label:after {
+  transform: translate3d(0, 0, 0);
+  opacity: 1;
+}
+.hc-input--square label:before,
+.hc-input--square label:after {
+  border-radius: 2px;
+}
+.hc-input--rounded label:before {
+  border-radius: 20px;
+}
+.hc-input--rounded label:after {
+  border-radius: 20px;
+}
+.hc-input--diamond .hc-input-single {
+  padding-left: 45px;
+}
+.hc-input--diamond label:before,
+.hc-input--diamond label:after {
+  border-radius: 0;
+}
+.hc-input--diamond label:before {
+  transform: rotate(45deg);
+}
+.hc-input--diamond input[type="radio"]:checked + label:after,
+.hc-input--diamond input[type="checkbox"]:checked + label:after {
+  transform: rotate(45deg);
+  opacity: 1;
+}
+.appbar {
+  height: 56px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  background-color: #151515;
+  top: 0;
+}
+.appbar .text {
+  color: #ffd200;
+  font-size: 1em;
+  line-height: 56px;
+  font-weight: 600;
+}
+.banner_login {
+  height: 90px;
+  background-color: #080808;
+  background-image: url(../images/bg_login.png);
+  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.banner_login .circle_logo {
+  height: 58px;
+  width: 58px;
+  background-image: url(../images/logo_login.png);
+  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
+  background-color: #ffd200;
+  display: inline-block;
+  background-position: center 9px;
+  background-repeat: no-repeat;
+  border-radius: 58px;
+  display: block;
+  overflow: hidden;
+}
+.banner_login .logo_center {
+  vertical-align: middle;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.banner_login .d-table {
+  height: 100%;
+}
+.banner_login .d-table-cell {
+  vertical-align: middle;
+}
+.banner_login .title {
+  font-size: 1em;
+  color: #dfb804;
+  display: block;
+  line-height: 28px;
+  padding-left: 5px;
+  font-weight: 500;
+}
+.banner_login .sub_title {
+  font-size: 0.6875em;
+  color: #ffffff;
+  display: block;
+  padding-left: 5px;
+}
+.banner_login .username {
+  color: #ffffff;
+}
+.group_form {
+  margin-top: 8px;
+}
+.group_form .icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  color: #fff;
+  font-size: 1.375em;
+  opacity: 0.3;
+}
+.group_form .form-control {
+  padding-left: 28px;
+}
+.div_forgot_pass {
+  margin-top: 36px;
+  font-size: 0.75em;
+  margin-bottom: 24px;
+}
+.link_pass {
+  color: #dfb804;
+  font-size: 0.6875em;
+  opacity: 0.8;
 }
 .title_big {
-  font-size: 24px;
+  font-size: 1.5em;
   color: #ffffff;
   font-weight: 600;
   position: relative;
@@ -289,42 +526,368 @@ ul {
   font-size: 16px;
   color: #000000;
 }
-.btn_back {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);
+.btn_close {
+  background-image: url(../images/icon_close.png);
+  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
   width: 40px;
   height: 40px;
   position: fixed;
-  top: 16px;
-  left: 16px;
+  top: 8px;
+  right: 8px;
   display: block;
   background-position: center center;
   background-repeat: no-repeat;
+  display: inline-block;
+}
+.btn_back {
+  background-image: url(../images/icon_back.png);
+  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  display: block;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: inline-block;
 }
 .bg_login_form {
-  position: fixed;
-  width: 100%;
-  top: 123px;
+  padding-top: 0px;
+  margin-top: 16px;
 }
 .bg_login_form .container {
-  padding-left: 32px;
-  padding-right: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.bg_login_form .btn-primary {
+  margin-top: 24px;
+}
+.bg_mxn_form {
+  padding-top: 24px;
+}
+.bg_mxn_form .group_form {
+  margin-top: 36px;
+}
+.bg_mxn_form .group_form .form-control {
+  padding-left: 0px;
+}
+.bg_mxn_form .send_code {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #ffd200;
+  font-size: 0.875em;
+  line-height: 24px;
+  width: 60px;
+  text-align: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  margin-top: 8px;
+  text-transform: uppercase;
+}
+.bg_mxn_form .countdown {
+  color: rgba(255, 255, 255, 0.6);
+}
+.bg_mxn_form .send_again {
+  margin-top: 36px;
+  margin-bottom: 56px;
+}
+.bg_mxn_form .send_again .clearable__clear {
+  right: 60px;
+  top: 0;
+}
+.bg_qmk_form {
+  padding-top: 0;
+  margin-top: 0;
+}
+.bg_qmk_form .group_form {
+  margin-top: 36px;
+}
+.bg_qmk_form .group_form .form-control {
+  padding-left: 0px;
+}
+.bg_qmk_form .send_code {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #ffd200;
+  font-size: 0.875em;
+  line-height: 24px;
+  width: 60px;
+  text-align: center;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  margin-top: 8px;
+  text-transform: uppercase;
+}
+.bg_qmk_form .countdown {
+  color: rgba(255, 255, 255, 0.6);
+}
+.bg_qmk_form .send_again {
+  margin-top: 36px;
+  margin-bottom: 56px;
+}
+.bg_qmk_form .send_again .clearable__clear {
+  right: 60px;
+  top: 0;
+}
+.bg_qmk_form .text_color {
+  color: #ffd200;
+}
+.bg_new_device {
+  margin-top: 0px;
 }
 .link_footer {
-  position: fixed;
-  bottom: 12px;
-  left: 0;
+  position: relative;
   width: 100%;
-  color: rgba(255, 255, 255, 0.7);
+  color: #ffffff;
   text-align: center;
   margin-bottom: 0;
+  background-color: rgba(32, 32, 32, 0.67);
+  margin-top: 32px;
+  line-height: 45px;
+}
+.link_footer .link_up,
+.link_footer .link_primary {
+  text-transform: uppercase;
+  font-size: 0.75em;
+}
+.link_footer .text {
+  font-size: 0.75em;
+  color: #ffffff;
+}
+.link_footer .link_up {
+  font-size: 0.75em;
+  color: #dfb804;
+}
+.link_footer .link_primary {
+  text-decoration: underline !important;
+}
+.policy {
+  margin: 24px 0 16px 0;
 }
 .forgot_pass {
   margin-top: 24px;
 }
 .link_primary {
-  color: #ffc72c !important;
-  font-size: 14px;
+  color: #ffd200 !important;
+  font-size: 0.875em;
+}
+.link_content {
+  color: #ffd200;
+}
+.div_title_sub {
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+.title_mxn {
+  color: #fff;
+  font-size: 0.875em;
+  margin-bottom: 8px;
+}
+.text_mxn {
+  color: #ffffff;
+  font-size: 0.75em;
+  margin-bottom: 0;
+}
+.link_text_center {
+  text-align: center;
+  margin-top: 24px;
+}
+.link_text_center .text {
+  font-size: 0.75em;
+}
+.link_text_center .link_up,
+.link_text_center .link_primary {
+  font-size: 0.75em;
+}
+.icon_phone_username {
+  background-image: url(../images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
+  width: 11px;
+  height: 18px;
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  background-repeat: no-repeat;
+}
+.icon_pass {
+  background-image: url(../images/icon_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
+  width: 12px;
+  height: 16px;
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  background-repeat: no-repeat;
+}
+.icon_phone {
+  background-image: url(../images/icon_phone.png);
+  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
+  width: 11px;
+  height: 18px;
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  background-repeat: no-repeat;
+}
+.another_login {
+  position: relative;
+  margin-top: 25px;
+  text-align: center;
+}
+.another_login .text {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.625em;
+  background-color: #080808;
+  padding-right: 16px;
+  position: relative;
+  z-index: 2;
+  padding-left: 16px;
+}
+.another_login:after {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  display: block;
+  position: absolute;
+  top: 8px;
+  z-index: 1;
+  content: "";
+  height: 1px;
+  width: 100%;
+}
+.btn-facebook {
+  background-color: #3b5997;
+}
+.btn-facebook .icon_facebook {
+  background-image: url(../images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
+  height: 38px;
+  width: 20px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.btn-facebook .text {
+  color: #ffffff;
+  position: relative;
+  top: 1px;
+}
+.btn-facebook:hover,
+.btn-facebook:active {
+  background-color: #3b5997 !important;
+}
+.btn-google {
+  background-color: #db5149;
+}
+.btn-google .icon_google {
+  background-image: url(../images/icon_google.png);
+  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
+  height: 38px;
+  width: 20px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.btn-google .text {
+  color: #ffffff;
+  position: relative;
+  top: 1px;
+}
+.btn-google:hover,
+.btn-google:active {
+  background-color: #db5149 !important;
+}
+.group_form_null .clearable__clear {
+  top: 0;
+}
+.modal-270 {
+  width: 270px;
+}
+.modal-270 .modal-content {
+  background-color: #ffd200;
+}
+.modal-270 .modal-body {
+  padding: 1.5rem;
+}
+.modal-270 .text {
+  font-size: 1em;
+  color: #2c1000;
+  margin-bottom: 0px;
+  font-weight: 600;
+}
+.modal-270 .btn-primary {
+  border: none;
+}
+.modal-270 .modal-footer {
+  border-top-color: rgba(44, 16, 0, 0.3);
+  padding: 3px;
+  text-align: center;
+}
+.modal-270 .modal-footer .btn-primary {
+  font-size: 1em;
+}
+.div_ds_lienket .title_1 {
+  color: #ffffff;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.div_ds_lienket .title_2 {
+  color: #ffd200;
+  font-size: 0.6875em;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+.list_device {
+  margin-top: 24px;
+}
+.list_device .list-group-item {
+  background-color: #151515;
+  font-size: 0.6875em;
+  color: #fff;
+  position: relative;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+.list_device .list-group-item:after {
+  background-image: url(../images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
+  content: "";
+  width: 16px;
+  height: 16px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: inline-block;
+  position: absolute;
+  right: 15px;
+}
+.list-group-item:first-child {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.list-group-item:last-child {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.div_lienket_hopdong {
+  margin-top: 64px;
+}
+.div_lienket_hopdong .title_1 {
+  color: #ffd200;
+  font-size: 1em;
+  font-weight: 600;
+  margin-bottom: 4px;
+  text-align: center;
+}
+.div_lienket_hopdong .title_2 {
+  color: #ffffff;
+  font-size: 0.75em;
+  font-weight: 600;
+  margin-bottom: 4px;
+  text-align: center;
+}
+.img_hd {
+  margin-top: 64px;
+  margin-bottom: 64px;
 }
 /* Clearable text inputs */
 .clearable {
@@ -340,10 +903,10 @@ ul {
   display: none;
   position: absolute;
   right: 0;
-  top: 0;
+  top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+  background-image: url(../images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -370,17 +933,17 @@ ul {
   left: 0;
 }
 .bg_account .username {
-  font-size: 14px;
+  font-size: 0.875em;
   color: rgba(255, 255, 255, 0.7);
   line-height: 32px;
 }
 .show_pass {
   position: absolute;
   right: 0;
-  top: 0;
+  top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+  background-image: url(../images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -391,10 +954,10 @@ ul {
 .show_pass.hidden {
   position: absolute;
   right: 0;
-  top: 0;
+  top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
