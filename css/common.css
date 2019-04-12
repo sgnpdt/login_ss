@@ -190,7 +190,7 @@ body {
   font-family: "roboto";
   font-size: 0.825em;
   height: 100%;
-  background-color: #000000;
+  background-color: #080808;
   overflow-x: auto;
   padding-top: 56px;
   -webkit-touch-callout: none;
@@ -319,6 +319,24 @@ ul {
 .btn-primary:hover {
   background-color: #ffd200;
   color: #000000 !important;
+  cursor: pointer;
+}
+.btn-secondary {
+  background-color: #000000;
+  color: #ffd200 !important;
+  font-size: 0.825em;
+  padding: 0px 24px;
+  text-align: center;
+  border-radius: 2px;
+  height: 38px;
+  line-height: 38px;
+  font-weight: bold;
+  border: 1px solid #ffd200;
+}
+.btn-secondary:hover {
+  background-color: #ffd200;
+  color: #000000 !important;
+  cursor: pointer;
 }
 .disable {
   background-color: transparent;
@@ -512,7 +530,6 @@ ul {
 }
 .link_pass {
   color: #dfb804;
-  font-size: 0.6875em;
   opacity: 0.8;
 }
 .title_big {
@@ -561,6 +578,9 @@ ul {
   padding-right: 16px;
 }
 .bg_login_form .btn-primary {
+  margin-top: 24px;
+}
+.bg_login_form .btn-secondary {
   margin-top: 24px;
 }
 .bg_mxn_form {
@@ -799,6 +819,12 @@ ul {
 .group_form_null .clearable__clear {
   top: 0;
 }
+.group_form_null .show_pass {
+  top: 0;
+}
+.group_form_null .show_pass.hidden {
+  top: 0;
+}
 .modal-270 {
   width: 270px;
 }
@@ -888,6 +914,14 @@ ul {
 .img_hd {
   margin-top: 64px;
   margin-bottom: 64px;
+}
+.content {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  color: #ffffff;
+}
+.content p {
+  font-size: 14px;
 }
 /* Clearable text inputs */
 .clearable {

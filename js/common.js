@@ -17,13 +17,13 @@ $( document ).ready(function() {
 	});
 	
 	$(".show_pass").click(function() {
-		if ($(".show_pass").hasClass("hidden") === false){
-			$(".input_mk").attr("type","text");
-	  		$(".show_pass").addClass("hidden");
+		if ($(this).hasClass("hidden") === false){
+			$(this).parent('.group_form_null ').find(".input_mk").attr("type","text");
+	  		$(this).addClass("hidden");
 		}
 		else{
-			$(".input_mk").attr("type","password");
-	  		$(".show_pass").removeClass("hidden");
+			$(this).parent('.group_form_null ').find(".input_mk").attr("type","password");
+	  		$(this).removeClass("hidden");
 		}
 		
 	});

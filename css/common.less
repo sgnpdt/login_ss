@@ -135,11 +135,15 @@ ul{margin: 0;padding: 0;}
 
 //Set style button
 .btn-primary{background-color: @primary-color;color: @dark-text-btn !important;font-size: 0.825em;padding: 0px 24px;text-align: center;border-radius: 2px;height: 38px;line-height: 38px;font-weight: bold;
-	&:hover{background-color: @primary-color;color: @dark-text !important;}
+	&:hover{background-color: @primary-color;color: @dark-text !important;cursor: pointer;}
+}
+.btn-secondary{background-color: @black-color;color: @primary-color !important;font-size: 0.825em;padding: 0px 24px;text-align: center;border-radius: 2px;height: 38px;line-height: 38px;font-weight: bold;border:1px solid @primary-color;
+	&:hover{background-color: @primary-color;color: @dark-text !important;cursor: pointer;}
 }
 .disable{background-color: transparent;color:#666 !important;border:1px solid #666; 
 	&:hover{background-color: transparent !important;color:#666 !important;border:1px solid #666 !important;}
 }
+
 
 //input form
 .group_form{position: relative;}
@@ -241,7 +245,7 @@ ul{margin: 0;padding: 0;}
 	.form-control{padding-left: 28px;}
 }
 .div_forgot_pass{margin-top: 36px;font-size: 0.75em;margin-bottom: 24px;}
-.link_pass{color: @primary-color-black;font-size: 0.6875em;opacity: 0.8;}
+.link_pass{color: @primary-color-black;opacity: 0.8;}
 
 .title_big{font-size: 1.5em;color:@light-text;font-weight: 600;position: relative;margin-bottom: 32px;
 }
@@ -251,6 +255,7 @@ ul{margin: 0;padding: 0;}
 .bg_login_form{padding-top: 0px;margin-top: 16px;
 	.container{padding-left: 16px;padding-right: 16px}
 	.btn-primary{margin-top: 24px;}
+	.btn-secondary{margin-top: 24px;}
 	
 }
 .bg_mxn_form{padding-top: 24px;
@@ -316,6 +321,8 @@ ul{margin: 0;padding: 0;}
 }
 .group_form_null{
 	.clearable__clear{top:0;}
+	.show_pass{top:0;}
+	.show_pass.hidden{top:0;}
 }
 .modal-270{width: 270px;
 	.modal-content{background-color: #ffd200;}
@@ -349,6 +356,9 @@ ul{margin: 0;padding: 0;}
 	.title_2{color: @light-text;font-size: 0.75em;font-weight: 600;margin-bottom: 4px;text-align: center;}
 }
 .img_hd{margin-top: 64px;margin-bottom: 64px;}
+.content{margin-top: 24px;margin-bottom: 24px; color:@light-text ;
+	p{font-size: 14px;}
+}
 
 /* Clearable text inputs */
 .clearable{
