@@ -412,7 +412,7 @@ ul {
 .form-control:focus {
   height: 50px;
   border: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   font-size: 1em;
   box-shadow: none;
   color: #ffffff;
