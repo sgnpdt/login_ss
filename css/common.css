@@ -10,96 +10,100 @@
   -ms-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.3);
 }
 /*.source-icon-back{
-	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
-	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);  
+	background-image: url(../master/images/icon_back.png);
+	background-image: -webkit-image-set(url(../master/images/icon_back.png) 1x,
+						url(../master/images/icon_back@2x.png) 2x,
+						url(../master/images/icon_back@3x.png) 3x);  
 }
 .source-icon-clear{
-	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
-	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+	background-image: url(../master/images/icon_clear_login.png);
+	background-image: -webkit-image-set(url(../master/images/icon_clear_login.png) 1x,
+						url(../master/images/icon_clear_login@2x.png) 2x,
+						url(../master/images/icon_clear_login@3x.png) 3x);
 }
 .source-icon-showpass{
-	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
-	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+	background-image: url(../master/images/icon_show_pass.png);
+	background-image: -webkit-image-set(url(../master/images/icon_show_pass.png) 1x,
+						url(../master/images/icon_show_pass@2x.png) 2x,
+						url(../master/images/icon_show_pass@3x.png) 3x);
 }
 .source-icon-hidepass{
-	background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-	background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x,
-						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+	background-image: url(../master/images/icon_hidden_pass.png);
+	background-image: -webkit-image-set(url(../master/images/icon_hidden_pass.png) 1x,
+						url(../master/images/icon_hidden_pass@2x.png) 2x,
+						url(../master/images/icon_hidden_pass@3x.png) 3x);
 }*/
 .source-icon-back {
-  background-image: url(../images/icon_back.png);
-  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
+  background-image: url(../master/images/icon_back.png);
+  background-image: -webkit-image-set(url(../master/images/icon_back.png) 1x, url(../master/images/icon_back@2x.png) 2x, url(../master/images/icon_back@3x.png) 3x);
 }
 .source-icon-close {
-  background-image: url(../images/icon_close.png);
-  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
+  background-image: url(../master/images/icon_close.png);
+  background-image: -webkit-image-set(url(../master/images/icon_close.png) 1x, url(../master/images/icon_close@2x.png) 2x, url(../master/images/icon_close@3x.png) 3x);
 }
 .source-icon-clear {
-  background-image: url(../images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
+  background-image: url(../master/images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../master/images/icon_clear_login.png) 1x, url(../master/images/icon_clear_login@2x.png) 2x, url(../master/images/icon_clear_login@3x.png) 3x);
 }
 .source-icon-showpass {
-  background-image: url(../images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_show_pass.png) 1x, url(../master/images/icon_show_pass@2x.png) 2x, url(../master/images/icon_show_pass@3x.png) 3x);
 }
 .source-icon-hidepass {
-  background-image: url(../images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_hidden_pass.png) 1x, url(../master/images/icon_hidden_pass@2x.png) 2x, url(../master/images/icon_hidden_pass@3x.png) 3x);
 }
 .source-logo {
-  background-image: url(../images/logo_login.png);
-  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
+  background-image: url(../master/images/logo_login.png);
+  background-image: -webkit-image-set(url(../master/images/logo_login.png) 1x, url(../master/images/logo_login@2x.png) 2x, url(../master/images/logo_login@3x.png) 3x);
 }
 .source-bg-login {
-  background-image: url(../images/bg_login.png);
-  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
+  background-image: url(../master/images/bg_login.png);
+  background-image: -webkit-image-set(url(../master/images/bg_login.png) 1x, url(../master/images/bg_login@2x.png) 2x, url(../master/images/bg_login@3x.png) 3x);
 }
 .source-icon-phone_username {
-  background-image: url(../images/icon_phone_username.png);
-  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
+  background-image: url(../master/images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../master/images/icon_phone_username.png) 1x, url(../master/images/icon_phone_username@2x.png) 2x, url(../master/images/icon_phone_username@3x.png) 3x);
 }
 .source-icon-pass {
-  background-image: url(../images/icon_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_pass.png) 1x, url(../master/images/icon_pass@2x.png) 2x, url(../master/images/icon_pass@3x.png) 3x);
 }
 .source-icon-facebook {
-  background-image: url(../images/icon_facebook.png);
-  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
+  background-image: url(../master/images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../master/images/icon_facebook.png) 1x, url(../master/images/icon_facebook@2x.png) 2x, url(../master/images/icon_facebook@3x.png) 3x);
 }
 .source-icon-google {
-  background-image: url(../images/icon_google.png);
-  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
+  background-image: url(../master/images/icon_google.png);
+  background-image: -webkit-image-set(url(../master/images/icon_google.png) 1x, url(../master/images/icon_google@2x.png) 2x, url(../master/images/icon_google@3x.png) 3x);
 }
 .source-icon-phone {
-  background-image: url(../images/icon_phone.png);
-  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
+  background-image: url(../master/images/icon_phone.png);
+  background-image: -webkit-image-set(url(../master/images/icon_phone.png) 1x, url(../master/images/icon_phone@2x.png) 2x, url(../master/images/icon_phone@3x.png) 3x);
 }
 .source-icon-device {
-  background-image: url(../images/icon_unlink.png);
-  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
+  background-image: url(../master/images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../master/images/icon_unlink.png) 1x, url(../master/images/icon_unlink@2x.png) 2x, url(../master/images/icon_unlink@3x.png) 3x);
 }
 .source-bg-malienket {
-  background-image: url(../images/Malienket.png);
-  background-image: -webkit-image-set(url(../images/Malienket.png) 1x, url(../images/Malienket@2x.png) 2x, url(../images/Malienket@3x.png) 3x);
+  background-image: url(../master/images/Malienket.png);
+  background-image: -webkit-image-set(url(../master/images/Malienket.png) 1x, url(../master/images/Malienket@2x.png) 2x, url(../master/images/Malienket@3x.png) 3x);
 }
 .source-arrow-hd {
-  background-image: url(../images/arrowhd.png);
-  background-image: -webkit-image-set(url(../images/arrowhd.png) 1x, url(../images/arrowhd@2x.png) 2x, url(../images/arrowhd@3x.png) 3x);
+  background-image: url(../master/images/arrowhd.png);
+  background-image: -webkit-image-set(url(../master/images/arrowhd.png) 1x, url(../master/images/arrowhd@2x.png) 2x, url(../master/images/arrowhd@3x.png) 3x);
 }
 .source-icon-hd {
-  background-image: url(../images/hd.png);
-  background-image: -webkit-image-set(url(../images/hd.png) 1x, url(../images/hd@2x.png) 2x, url(../images/hd@3x.png) 3x);
+  background-image: url(../master/images/hd.png);
+  background-image: -webkit-image-set(url(../master/images/hd.png) 1x, url(../master/images/hd@2x.png) 2x, url(../master/images/hd@3x.png) 3x);
 }
 .source-bg_mlk {
-  background-image: url(../images/bg_mlk.png);
-  background-image: -webkit-image-set(url(../images/bg_mlk.png) 1x, url(../images/bg_mlk@2x.png) 2x, url(../images/bg_mlk@3x.png) 3x);
+  background-image: url(../master/images/bg_mlk.png);
+  background-image: -webkit-image-set(url(../master/images/bg_mlk.png) 1x, url(../master/images/bg_mlk@2x.png) 2x, url(../master/images/bg_mlk@3x.png) 3x);
+}
+.source-bg_tkfoxy {
+  background-image: url(../images/bg_tkfoxy.png);
+  background-image: -webkit-image-set(url(../images/bg_tkfoxy.png) 1x, url(../images/bg_tkfoxy@2x.png) 2x, url(../images/bg_tkfoxy@3x.png) 3x);
 }
 .Shows-xs {
   display: none !important;
@@ -209,8 +213,8 @@ body {
   background-color: #080808;
   overflow-x: auto;
   padding-top: 56px;
-  background-image: url(../images/bg_mlk.png);
-  background-image: -webkit-image-set(url(../images/bg_mlk.png) 1x, url(../images/bg_mlk@2x.png) 2x, url(../images/bg_mlk@3x.png) 3x);
+  background-image: url(../master/images/bg_mlk.png);
+  background-image: -webkit-image-set(url(../master/images/bg_mlk.png) 1x, url(../master/images/bg_mlk@2x.png) 2x, url(../master/images/bg_mlk@3x.png) 3x);
   background-position: bottom center;
   background-repeat: no-repeat;
   -webkit-touch-callout: none;
@@ -249,6 +253,22 @@ a {
     color: #ffd200 !important;
     text-decoration: none;
   }
+}
+::-webkit-input-placeholder {
+  /* Chrome/Opera/Safari */
+  color: rgba(255, 255, 255, 0.7);
+}
+::-moz-placeholder {
+  /* Firefox 19+ */
+  color: rgba(255, 255, 255, 0.7);
+}
+:-ms-input-placeholder {
+  /* IE 10+ */
+  color: rgba(255, 255, 255, 0.7);
+}
+:-moz-placeholder {
+  /* Firefox 18- */
+  color: rgba(255, 255, 255, 0.7);
 }
 .hide {
   display: none;
@@ -325,16 +345,23 @@ ul {
   color: rgba(255, 255, 255, 0.7);
   font-size: 0.825em;
 }
+.btn_cus {
+  border-radius: 50px !important;
+  width: 66%;
+  font-size: 16px;
+  display: block;
+  margin: auto;
+  height: 40px;
+  line-height: 40px;
+}
 .btn-primary {
   background-color: #ffd200;
   color: #2a1919 !important;
-  font-size: 0.825em;
+  font-size: 1em;
   padding: 0px 24px;
   text-align: center;
   border-radius: 2px;
-  height: 38px;
-  line-height: 38px;
-  font-weight: bold;
+  font-weight: normal;
 }
 .btn-primary:hover {
   background-color: #ffd200;
@@ -344,13 +371,11 @@ ul {
 .btn-secondary {
   background-color: #000000;
   color: #ffd200 !important;
-  font-size: 0.825em;
+  font-size: 1em;
   padding: 0px 24px;
   text-align: center;
   border-radius: 2px;
-  height: 38px;
-  line-height: 38px;
-  font-weight: bold;
+  font-weight: normal;
   border: 1px solid #ffd200;
 }
 .btn-secondary:hover {
@@ -368,21 +393,30 @@ ul {
   color: #666 !important;
   border: 1px solid #666 !important;
 }
+.btn-fb {
+  background-color: #1c52c2;
+  color: #fff !important;
+}
 .group_form {
   position: relative;
 }
+.group_form .input_relative {
+  padding-bottom: 16px;
+}
 .form-control,
 .form-control:focus {
-  height: 40px;
+  height: 50px;
   border: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  font-size: 0.825em;
+  border-bottom: 1px solid #ffffff;
+  font-size: 1em;
   box-shadow: none;
   color: #ffffff;
   border-radius: 2px;
   margin-bottom: 24px;
   background-color: transparent;
   margin-bottom: 8px;
+  text-align: center;
+  font-weight: 300;
 }
 .invalid-feedback {
   position: relative;
@@ -483,15 +517,15 @@ ul {
 .banner_login {
   height: 90px;
   background-color: #080808;
-  background-image: url(../images/bg_login.png);
-  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
+  background-image: url(../master/images/bg_login.png);
+  background-image: -webkit-image-set(url(../master/images/bg_login.png) 1x, url(../master/images/bg_login@2x.png) 2x, url(../master/images/bg_login@3x.png) 3x);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 .banner_login .circle_logo {
   height: 58px;
   width: 58px;
-  background-image: url(../images/logo_login.png);
-  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
+  background-image: url(../master/images/logo_login.png);
+  background-image: -webkit-image-set(url(../master/images/logo_login.png) 1x, url(../master/images/logo_login@2x.png) 2x, url(../master/images/logo_login@3x.png) 3x);
   background-color: #ffd200;
   display: inline-block;
   background-position: center 9px;
@@ -563,8 +597,8 @@ ul {
   color: #000000;
 }
 .btn_close {
-  background-image: url(../images/icon_close.png);
-  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
+  background-image: url(../master/images/icon_close.png);
+  background-image: -webkit-image-set(url(../master/images/icon_close.png) 1x, url(../master/images/icon_close@2x.png) 2x, url(../master/images/icon_close@3x.png) 3x);
   width: 40px;
   height: 40px;
   position: fixed;
@@ -576,8 +610,8 @@ ul {
   display: inline-block;
 }
 .btn_back {
-  background-image: url(../images/icon_back.png);
-  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
+  background-image: url(../master/images/icon_back.png);
+  background-image: -webkit-image-set(url(../master/images/icon_back.png) 1x, url(../master/images/icon_back@2x.png) 2x, url(../master/images/icon_back@3x.png) 3x);
   width: 40px;
   height: 40px;
   position: fixed;
@@ -703,6 +737,8 @@ ul {
 }
 .policy {
   margin: 24px 0 16px 0;
+  width: 85%;
+  margin: 50px auto 0 auto;
 }
 .forgot_pass {
   margin-top: 24px;
@@ -740,8 +776,8 @@ ul {
   font-size: 0.75em;
 }
 .icon_phone_username {
-  background-image: url(../images/icon_phone_username.png);
-  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
+  background-image: url(../master/images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../master/images/icon_phone_username.png) 1x, url(../master/images/icon_phone_username@2x.png) 2x, url(../master/images/icon_phone_username@3x.png) 3x);
   width: 11px;
   height: 18px;
   display: inline-block;
@@ -750,8 +786,8 @@ ul {
   background-repeat: no-repeat;
 }
 .icon_pass {
-  background-image: url(../images/icon_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_pass.png) 1x, url(../master/images/icon_pass@2x.png) 2x, url(../master/images/icon_pass@3x.png) 3x);
   width: 12px;
   height: 16px;
   display: inline-block;
@@ -760,8 +796,8 @@ ul {
   background-repeat: no-repeat;
 }
 .icon_phone {
-  background-image: url(../images/icon_phone.png);
-  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
+  background-image: url(../master/images/icon_phone.png);
+  background-image: -webkit-image-set(url(../master/images/icon_phone.png) 1x, url(../master/images/icon_phone@2x.png) 2x, url(../master/images/icon_phone@3x.png) 3x);
   width: 11px;
   height: 18px;
   display: inline-block;
@@ -797,8 +833,8 @@ ul {
   background-color: #3b5997;
 }
 .btn-facebook .icon_facebook {
-  background-image: url(../images/icon_facebook.png);
-  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
+  background-image: url(../master/images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../master/images/icon_facebook.png) 1x, url(../master/images/icon_facebook@2x.png) 2x, url(../master/images/icon_facebook@3x.png) 3x);
   height: 38px;
   width: 20px;
   background-position: center center;
@@ -818,8 +854,8 @@ ul {
   background-color: #db5149;
 }
 .btn-google .icon_google {
-  background-image: url(../images/icon_google.png);
-  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
+  background-image: url(../master/images/icon_google.png);
+  background-image: -webkit-image-set(url(../master/images/icon_google.png) 1x, url(../master/images/icon_google@2x.png) 2x, url(../master/images/icon_google@3x.png) 3x);
   height: 38px;
   width: 20px;
   background-position: center center;
@@ -894,8 +930,8 @@ ul {
   padding-bottom: 1rem;
 }
 .list_device .list-group-item:after {
-  background-image: url(../images/icon_unlink.png);
-  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
+  background-image: url(../master/images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../master/images/icon_unlink.png) 1x, url(../master/images/icon_unlink@2x.png) 2x, url(../master/images/icon_unlink@3x.png) 3x);
   content: "";
   width: 16px;
   height: 16px;
@@ -958,8 +994,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(../images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
+  background-image: url(../master/images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../master/images/icon_clear_login.png) 1x, url(../master/images/icon_clear_login@2x.png) 2x, url(../master/images/icon_clear_login@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -995,8 +1031,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(../images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_show_pass.png) 1x, url(../master/images/icon_show_pass@2x.png) 2x, url(../master/images/icon_show_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -1009,8 +1045,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(../images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../master/images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../master/images/icon_hidden_pass.png) 1x, url(../master/images/icon_hidden_pass@2x.png) 2x, url(../master/images/icon_hidden_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -1061,8 +1097,8 @@ ul {
   margin-top: 8px;
 }
 .bg_malienket {
-  background-image: url(../images/Malienket.png);
-  background-image: -webkit-image-set(url(../images/Malienket.png) 1x, url(../images/Malienket@2x.png) 2x, url(../images/Malienket@3x.png) 3x);
+  background-image: url(../master/images/Malienket.png);
+  background-image: -webkit-image-set(url(../master/images/Malienket.png) 1x, url(../master/images/Malienket@2x.png) 2x, url(../master/images/Malienket@3x.png) 3x);
   background-repeat: no-repeat;
   width: 100%;
   height: 160px;
@@ -1088,16 +1124,16 @@ ul {
   position: absolute;
   bottom: -10px;
   left: 12px;
-  background-image: url(../images/arrowhd.png);
-  background-image: -webkit-image-set(url(../images/arrowhd.png) 1x, url(../images/arrowhd@2x.png) 2x, url(../images/arrowhd@3x.png) 3x);
+  background-image: url(../master/images/arrowhd.png);
+  background-image: -webkit-image-set(url(../master/images/arrowhd.png) 1x, url(../master/images/arrowhd@2x.png) 2x, url(../master/images/arrowhd@3x.png) 3x);
   content: "";
   width: 7px;
   height: 10px;
   background-repeat: no-repeat;
 }
 .bg_malienket .hd {
-  background-image: url(../images/hd.png);
-  background-image: -webkit-image-set(url(../images/hd.png) 1x, url(../images/hd@2x.png) 2x, url(../images/hd@3x.png) 3x);
+  background-image: url(../master/images/hd.png);
+  background-image: -webkit-image-set(url(../master/images/hd.png) 1x, url(../master/images/hd@2x.png) 2x, url(../master/images/hd@3x.png) 3x);
   width: 12px;
   height: 8px;
   display: inline-block;
@@ -1109,7 +1145,7 @@ ul {
   font-weight: 300;
   color: #ffffff;
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 6px;
 }
 input::-webkit-input-placeholder {
   color: #535353 !important;
@@ -1143,8 +1179,48 @@ input:-ms-input-placeholder {
   overflow: hidden;
   text-align: center;
 }
-.invalid-feedback_mlk {
-  font-size: 14px;
+.invalid-feedback {
+  font-size: 0.825em;
   color: #fe1d03;
   text-align: center;
+  top: 4px;
+}
+.text_color {
+  color: #ffd200;
+}
+.bg_tkfoxy {
+  background-image: url(../images/bg_tkfoxy.png);
+  background-image: -webkit-image-set(url(../images/bg_tkfoxy.png) 1x, url(../images/bg_tkfoxy@2x.png) 2x, url(../images/bg_tkfoxy@3x.png) 3x);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 160px;
+  background-position: center;
+  position: relative;
+  margin-bottom: 16px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.group_bottom {
+  position: absolute;
+  top: 66%;
+  width: 100%;
+  left: 0;
+}
+.avatar {
+  height: 45px;
+  width: 45px;
+  border-radius: 50px;
+  display: block;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.bg_dk .div_header {
+  height: 130px;
+}
+.div_input_pos {
+  margin-top: 80px;
+  width: 85%;
+  display: block;
+  margin: 80px auto 0 auto;
 }
