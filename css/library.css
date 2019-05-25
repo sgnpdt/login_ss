@@ -102,6 +102,6 @@
   background-image: -webkit-image-set(url(../master/images/bg_mlk.png) 1x, url(../master/images/bg_mlk@2x.png) 2x, url(../master/images/bg_mlk@3x.png) 3x);
 }
 .source-bg_tkfoxy {
-  background-image: url(../master/images/bg_tkfoxy.png);
+  background-image: url(../master/images/bg_tkfoxy.png)
   background-image: -webkit-image-set(url(../master/images/bg_tkfoxy.png) 1x, url(../master/images/bg_tkfoxy@2x.png) 2x, url(../master/images/bg_tkfoxy@3x.png) 3x);
 }
