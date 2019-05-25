@@ -34,72 +34,76 @@
 						url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
 }*/
 .source-icon-back {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);
+  background-image: url(../images/icon_back.png);
+  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
 }
 .source-icon-close {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close@3x.png) 3x);
+  background-image: url(../images/icon_close.png);
+  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
 }
 .source-icon-clear {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+  background-image: url(../images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
 }
 .source-icon-showpass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+  background-image: url(../images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
 }
 .source-icon-hidepass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
 }
 .source-logo {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login@3x.png) 3x);
+  background-image: url(../images/logo_login.png);
+  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
 }
 .source-bg-login {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login@3x.png) 3x);
+  background-image: url(../images/bg_login.png);
+  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
 }
 .source-icon-phone_username {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username@3x.png) 3x);
+  background-image: url(../images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
 }
 .source-icon-pass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass@3x.png) 3x);
+  background-image: url(../images/icon_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
 }
 .source-icon-facebook {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook@3x.png) 3x);
+  background-image: url(../images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
 }
 .source-icon-google {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google@3x.png) 3x);
+  background-image: url(../images/icon_google.png);
+  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
 }
 .source-icon-phone {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone@3x.png) 3x);
+  background-image: url(../images/icon_phone.png);
+  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
 }
 .source-icon-device {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink@3x.png) 3x);
+  background-image: url(../images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
 }
 .source-bg-malienket {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket@3x.png) 3x);
+  background-image: url(../images/Malienket.png);
+  background-image: -webkit-image-set(url(../images/Malienket.png) 1x, url(../images/Malienket@2x.png) 2x, url(../images/Malienket@3x.png) 3x);
+}
+.source-bg-maOTP {
+  background-image: url(../images/OTP_bg.png);
+  background-image: -webkit-image-set(url(../images/OTP_bg.png) 1x, url(../images/OTP_bg@2x.png) 2x, url(../images/OTP_bg@3x.png) 3x);
 }
 .source-arrow-hd {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd@3x.png) 3x);
+  background-image: url(../images/arrowhd.png);
+  background-image: -webkit-image-set(url(../images/arrowhd.png) 1x, url(../images/arrowhd@2x.png) 2x, url(../images/arrowhd@3x.png) 3x);
 }
 .source-icon-hd {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd@3x.png) 3x);
+  background-image: url(../images/hd.png);
+  background-image: -webkit-image-set(url(../images/hd.png) 1x, url(../images/hd@2x.png) 2x, url(../images/hd@3x.png) 3x);
 }
 .source-bg_mlk {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk@3x.png) 3x);
+  background-image: url(../images/bg_mlk.png);
+  background-image: -webkit-image-set(url(../images/bg_mlk.png) 1x, url(../images/bg_mlk@2x.png) 2x, url(../images/bg_mlk@3x.png) 3x);
 }
 .source-bg_tkfoxy {
   background-image: url(../images/bg_tkfoxy.png);
@@ -213,10 +217,11 @@ body {
   background-color: #080808;
   overflow-x: auto;
   padding-top: 56px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_mlk@3x.png) 3x);
+  background-image: url(../images/bg_mlk.png);
+  background-image: -webkit-image-set(url(../images/bg_mlk.png) 1x, url(../images/bg_mlk@2x.png) 2x, url(../images/bg_mlk@3x.png) 3x);
   background-position: bottom center;
   background-repeat: no-repeat;
+  background-size: contain;
   -webkit-touch-callout: none;
   /* iOS Safari */
   -webkit-user-select: none;
@@ -356,7 +361,7 @@ ul {
 }
 .btn-primary {
   background-color: #ffd200;
-  color: #2a1919 !important;
+  color: #262626 !important;
   font-size: 1em;
   padding: 0px 24px;
   text-align: center;
@@ -407,7 +412,7 @@ ul {
 .form-control:focus {
   height: 50px;
   border: none;
-  border-bottom: 1px solid #ffffff;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
   font-size: 1em;
   box-shadow: none;
   color: #ffffff;
@@ -507,6 +512,7 @@ ul {
   position: fixed;
   width: 100%;
   top: 0;
+  background-color: #080808;
 }
 .appbar .text {
   color: #ffd200;
@@ -517,15 +523,15 @@ ul {
 .banner_login {
   height: 90px;
   background-color: #080808;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/bg_login@3x.png) 3x);
+  background-image: url(../images/bg_login.png);
+  background-image: -webkit-image-set(url(../images/bg_login.png) 1x, url(../images/bg_login@2x.png) 2x, url(../images/bg_login@3x.png) 3x);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 .banner_login .circle_logo {
   height: 58px;
   width: 58px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/logo_login@3x.png) 3x);
+  background-image: url(../images/logo_login.png);
+  background-image: -webkit-image-set(url(../images/logo_login.png) 1x, url(../images/logo_login@2x.png) 2x, url(../images/logo_login@3x.png) 3x);
   background-color: #ffd200;
   display: inline-block;
   background-position: center 9px;
@@ -597,8 +603,8 @@ ul {
   color: #000000;
 }
 .btn_close {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_close@3x.png) 3x);
+  background-image: url(../images/icon_close.png);
+  background-image: -webkit-image-set(url(../images/icon_close.png) 1x, url(../images/icon_close@2x.png) 2x, url(../images/icon_close@3x.png) 3x);
   width: 40px;
   height: 40px;
   position: fixed;
@@ -610,8 +616,8 @@ ul {
   display: inline-block;
 }
 .btn_back {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_back@3x.png) 3x);
+  background-image: url(../images/icon_back.png);
+  background-image: -webkit-image-set(url(../images/icon_back.png) 1x, url(../images/icon_back@2x.png) 2x, url(../images/icon_back@3x.png) 3x);
   width: 40px;
   height: 40px;
   position: fixed;
@@ -776,8 +782,8 @@ ul {
   font-size: 0.75em;
 }
 .icon_phone_username {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone_username@3x.png) 3x);
+  background-image: url(../images/icon_phone_username.png);
+  background-image: -webkit-image-set(url(../images/icon_phone_username.png) 1x, url(../images/icon_phone_username@2x.png) 2x, url(../images/icon_phone_username@3x.png) 3x);
   width: 11px;
   height: 18px;
   display: inline-block;
@@ -786,8 +792,8 @@ ul {
   background-repeat: no-repeat;
 }
 .icon_pass {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_pass@3x.png) 3x);
+  background-image: url(../images/icon_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_pass.png) 1x, url(../images/icon_pass@2x.png) 2x, url(../images/icon_pass@3x.png) 3x);
   width: 12px;
   height: 16px;
   display: inline-block;
@@ -796,8 +802,8 @@ ul {
   background-repeat: no-repeat;
 }
 .icon_phone {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_phone@3x.png) 3x);
+  background-image: url(../images/icon_phone.png);
+  background-image: -webkit-image-set(url(../images/icon_phone.png) 1x, url(../images/icon_phone@2x.png) 2x, url(../images/icon_phone@3x.png) 3x);
   width: 11px;
   height: 18px;
   display: inline-block;
@@ -833,8 +839,8 @@ ul {
   background-color: #3b5997;
 }
 .btn-facebook .icon_facebook {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_facebook@3x.png) 3x);
+  background-image: url(../images/icon_facebook.png);
+  background-image: -webkit-image-set(url(../images/icon_facebook.png) 1x, url(../images/icon_facebook@2x.png) 2x, url(../images/icon_facebook@3x.png) 3x);
   height: 38px;
   width: 20px;
   background-position: center center;
@@ -854,8 +860,8 @@ ul {
   background-color: #db5149;
 }
 .btn-google .icon_google {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_google@3x.png) 3x);
+  background-image: url(../images/icon_google.png);
+  background-image: -webkit-image-set(url(../images/icon_google.png) 1x, url(../images/icon_google@2x.png) 2x, url(../images/icon_google@3x.png) 3x);
   height: 38px;
   width: 20px;
   background-position: center center;
@@ -891,7 +897,7 @@ ul {
 }
 .modal-270 .text {
   font-size: 1em;
-  color: #2a1919;
+  color: #262626;
   margin-bottom: 0px;
   font-weight: 600;
 }
@@ -930,8 +936,8 @@ ul {
   padding-bottom: 1rem;
 }
 .list_device .list-group-item:after {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_unlink@3x.png) 3x);
+  background-image: url(../images/icon_unlink.png);
+  background-image: -webkit-image-set(url(../images/icon_unlink.png) 1x, url(../images/icon_unlink@2x.png) 2x, url(../images/icon_unlink@3x.png) 3x);
   content: "";
   width: 16px;
   height: 16px;
@@ -994,8 +1000,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_clear_login@3x.png) 3x);
+  background-image: url(../images/icon_clear_login.png);
+  background-image: -webkit-image-set(url(../images/icon_clear_login.png) 1x, url(../images/icon_clear_login@2x.png) 2x, url(../images/icon_clear_login@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -1031,8 +1037,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_show_pass@3x.png) 3x);
+  background-image: url(../images/icon_show_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_show_pass.png) 1x, url(../images/icon_show_pass@2x.png) 2x, url(../images/icon_show_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -1045,8 +1051,8 @@ ul {
   right: 0;
   top: 20px;
   padding: 0 8px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/icon_hidden_pass@3x.png) 3x);
+  background-image: url(../images/icon_hidden_pass.png);
+  background-image: -webkit-image-set(url(../images/icon_hidden_pass.png) 1x, url(../images/icon_hidden_pass@2x.png) 2x, url(../images/icon_hidden_pass@3x.png) 3x);
   height: 40px;
   width: 40px;
   background-repeat: no-repeat;
@@ -1097,8 +1103,8 @@ ul {
   margin-top: 8px;
 }
 .bg_malienket {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/Malienket@3x.png) 3x);
+  background-image: url(../images/Malienket.png);
+  background-image: -webkit-image-set(url(../images/Malienket.png) 1x, url(../images/Malienket@2x.png) 2x, url(../images/Malienket@3x.png) 3x);
   background-repeat: no-repeat;
   width: 100%;
   height: 160px;
@@ -1124,24 +1130,34 @@ ul {
   position: absolute;
   bottom: -10px;
   left: 12px;
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/arrowhd@3x.png) 3x);
+  background-image: url(../images/arrowhd.png);
+  background-image: -webkit-image-set(url(../images/arrowhd.png) 1x, url(../images/arrowhd@2x.png) 2x, url(../images/arrowhd@3x.png) 3x);
   content: "";
   width: 7px;
   height: 10px;
   background-repeat: no-repeat;
 }
 .bg_malienket .hd {
-  background-image: url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd.png);
-  background-image: -webkit-image-set(url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd.png) 1x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd@2x.png) 2x, url(https://raw.githubusercontent.com/sgnpdt/login_ss/master/images/hd@3x.png) 3x);
+  background-image: url(../images/hd.png);
+  background-image: -webkit-image-set(url(../images/hd.png) 1x, url(../images/hd@2x.png) 2x, url(../images/hd@3x.png) 3x);
   width: 12px;
   height: 8px;
   display: inline-block;
   margin-left: 4px;
   margin-top: 5px;
 }
+.bg_maOTP {
+  background-image: url(../images/OTP_bg.png);
+  background-image: -webkit-image-set(url(../images/OTP_bg.png) 1x, url(../images/OTP_bg@2x.png) 2x, url(../images/OTP_bg@3x.png) 3x);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 160px;
+  background-position: center;
+  position: relative;
+  margin-bottom: 16px;
+}
 .title_mlk {
-  font-size: 16px;
+  font-size: 1em;
   font-weight: 300;
   color: #ffffff;
   text-align: center;
@@ -1225,4 +1241,24 @@ input:-ms-input-placeholder {
   width: 85%;
   display: block;
   margin: 80px auto 0 auto;
+}
+.div_input_pos_signup {
+  margin-top: 24px;
+}
+.title_success {
+  font-size: 1.5em;
+}
+.invalid-feedback_OTP {
+  text-align: left;
+}
+@media (max-width: 320px) {
+  .div_input_pos_signup {
+    margin-top: 8px;
+  }
+  .group_bottom {
+    top: 70%;
+  }
+  .policy {
+    margin-top: 16px;
+  }
 }
