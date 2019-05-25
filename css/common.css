@@ -1213,8 +1213,8 @@ input:-ms-input-placeholder {
   left: 0;
 }
 .avatar {
-  height: 45px;
-  width: 45px;
+  height: 2.35rem;
+  width: 2.35rem;
   border-radius: 50px;
   display: block;
   overflow: hidden;
