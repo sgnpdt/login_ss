@@ -912,24 +912,12 @@ ul {
 .modal-270 .modal-footer .btn-primary {
   font-size: 1em;
 }
-.div_ds_lienket .title_1 {
-  color: #ffffff;
-  font-size: 0.75em;
-  font-weight: 600;
-  margin-bottom: 4px;
-}
-.div_ds_lienket .title_2 {
-  color: #ffd200;
-  font-size: 0.6875em;
-  font-weight: 300;
-  margin-bottom: 0;
-}
 .list_device {
-  margin-top: 24px;
+  margin-top: 32px;
 }
 .list_device .list-group-item {
-  background-color: #151515;
-  font-size: 0.6875em;
+  background-color: transparent;
+  font-size: 1em;
   color: #fff;
   position: relative;
   padding-top: 1rem;
@@ -1250,6 +1238,9 @@ input:-ms-input-placeholder {
 }
 .invalid-feedback_OTP {
   text-align: left;
+}
+.bg_limited {
+  margin-bottom: 24px;
 }
 @media (max-width: 320px) {
   .div_input_pos_signup {
