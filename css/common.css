@@ -352,7 +352,7 @@ ul {
 }
 .btn_cus {
   border-radius: 50px !important;
-  width: 66%;
+  width: 85%;
   font-size: 16px;
   display: block;
   margin: auto;
@@ -1207,8 +1207,6 @@ input:-ms-input-placeholder {
   margin-bottom: 50px;
 }
 .group_bottom {
-  position: fixed;
-  top: 66%;
   width: 100%;
   left: 0;
 }
@@ -1229,6 +1227,7 @@ input:-ms-input-placeholder {
   width: 85%;
   display: block;
   margin: 80px auto 0 auto;
+  height: 210px;
 }
 .div_input_pos_signup {
   margin-top: 24px;
@@ -1253,7 +1252,7 @@ input:-ms-input-placeholder {
     margin-top: 16px;
   }
   .btn_cus {
-    width: 80%;
+    width: 85%;
   }
   .div_lienket_hopdong {
     margin-top: 32px;
