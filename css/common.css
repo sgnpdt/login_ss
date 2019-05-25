@@ -1261,4 +1261,10 @@ input:-ms-input-placeholder {
   .policy {
     margin-top: 16px;
   }
+  .btn_cus {
+    width: 80%;
+  }
+  .div_lienket_hopdong {
+    margin-top: 32px;
+  }
 }
