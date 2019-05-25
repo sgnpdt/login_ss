@@ -917,11 +917,11 @@ ul {
 }
 .list_device .list-group-item {
   background-color: transparent;
-  font-size: 1em;
   color: #fff;
   position: relative;
   padding-top: 1rem;
   padding-bottom: 1rem;
+  font-size: 1em;
 }
 .list_device .list-group-item:after {
   background-image: url(../images/icon_unlink.png);
