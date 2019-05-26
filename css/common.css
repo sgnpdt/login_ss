@@ -894,18 +894,20 @@ ul {
   font-size: 1em;
   color: #2a1919;
   margin-bottom: 0px;
-  font-weight: 600;
+  font-weight: 400;
 }
 .modal-270 .btn-primary {
   border: none;
 }
 .modal-270 .modal-footer {
   border-top-color: rgba(44, 16, 0, 0.3);
-  padding: 3px;
+  padding: 0px;
   text-align: center;
 }
 .modal-270 .modal-footer .btn-primary {
   font-size: 1em;
+  font-weight: 500;
+  padding: 8px 24px;
 }
 .list_device {
   margin-top: 32px;
@@ -1146,6 +1148,9 @@ ul {
   text-align: center;
   margin-bottom: 6px;
 }
+.title_mlk .dt {
+  white-space: nowrap;
+}
 input::-webkit-input-placeholder {
   color: #535353 !important;
 }
@@ -1240,6 +1245,31 @@ input:-ms-input-placeholder {
 .text_limited {
   font-size: 0.885em;
 }
+.send-feedback-OTP {
+  text-align: center;
+  color: #fff;
+}
+.send-feedback-OTP .text {
+  font-weight: 300;
+  font-size: 0.825em;
+}
+.send-feedback-OTP .text.error {
+  color: #fe1d03;
+}
+.send-feedback-OTP .text_color {
+  margin-left: 4px;
+  font-size: 0.885em;
+  white-space: nowrap;
+}
+.modal-dialog-centered {
+  margin: 0 auto;
+}
+.modal-footer .col-6 {
+  border-right: 1px solid rgba(44, 16, 0, 0.3);
+}
+.modal-footer .col-6:last-child {
+  border-right: 0;
+}
 @media (max-width: 320px) {
   .div_input_pos_signup {
     margin-top: 8px;
@@ -1264,5 +1294,8 @@ input:-ms-input-placeholder {
   .list_device .list-group-item {
     padding-top: 0.8rem;
     padding-bottom: 0.8rem;
+  }
+  .modal-270 .text {
+    font-size: 0.885em;
   }
 }

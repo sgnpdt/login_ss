@@ -23,7 +23,7 @@
 <script type="text/javascript" src="js/common.js"></script>
 </head>
 <!-- InstanceBeginEditable name="set class" -->
-<body>
+<body class="">
 <!-- InstanceEndEditable -->	
 	<!--All Header-->
 	
@@ -33,38 +33,61 @@
 	
 	<div class="appbar">
 		<a class="btn_back"></a>
-		
 	</div>
 	
-	<div class="bg_login_form div_ds_lienket">
+	<div class="bg_login_form bg_dk ">
 		<div class="container">
-			<p class="link_text_center bg_limited">
-				<img src="images/img_lienket.png" width="120" />
-			</p>
-			<p class="title_mlk text_color text_limited">Bạn vui lòng huỷ liên kết tới 1 thiết bị<br> để đăng nhập trên thiết bị mới!</p>
-			<div class="list-group list_device">
-			  <a href="#" class="list-group-item list-group-item-action" data-toggle="modal" data-target="#ShowHuyLK">Iphone X</a>
-			  <a href="#" class="list-group-item list-group-item-action">Samsung S10</a>
-			  <a href="#" class="list-group-item list-group-item-action">Iphone 8</a>
-			  <a href="#" class="list-group-item list-group-item-action">Samsung Note10</a>
+			<div class="div_header">
+				<div class="avatar">
+					<img src="images/avatar_add.png" alt="" />
+				</div>
+				<p class="title_mlk">Đăng ký bằng số điện thoại</p>
+			</div>
+			<div class="div_input_pos div_input_pos_signup">
+				<div class="group_form clearable">
+					<div class="input_relative">
+						<input class="form-control input_mk" type="tel" placeholder="Số điện thoại" value="" required="" />
+						<div class="invalid-feedback">
+						 Số điện thoại không hợp lệ
+						</div>
+					</div>
+					
+				</div>
+				<div class="group_form clearable">
+					<div class="input_relative">
+						<input class="form-control input_mk" type="password" placeholder="Mật khẩu" value="" required="" />
+						<div class="invalid-feedback">
+						 Mật khẩu không hợp lệ
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			<div class="group_bottom">
+				<div class="btn_cus btn-primary" data-toggle="modal" data-target="#ShowCountDown">Đăng ký</div>
+				<div class="">
+					<div class="hc-input--square policy">
+						<div class="hc-input-single">
+							<input type="checkbox" name="fieldset-2" id="radio2-example-one">
+							<label for="radio2-example-one">Bạn đã đồng ý với <a class="link_content" href="thoathuannguoidung.html">Thoả thuận người dùng</a> và <a class="link_content" href="chinhsachriengtu.html">chính sách riêng tư</a></label>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 	<!-- Modal -->
-	<div class="modal fade" id="ShowHuyLK" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+	<div class="modal fade" id="ShowCountDown" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	  <div class="modal-dialog modal-dialog-centered modal-270" role="document">
 		<div class="modal-content">
 		  <div class="modal-body">
-			<p class="text text-center">Bạn muốn hủy liên kết với:</p>
-		  	<p class="text text-center">Samsung S10</p>
+			<p class="text text-center">Vui lòng thử lại sau</p>
+		  	<p class="text text-center">00:00:60 giây</p>
 		  </div>
 		  <div class="modal-footer">
 			<div class="container">
 				<div class="row justify-content-md-center">
-					<div class="col-6 align-self-center">
-						<button type="button" class="btn btn-primary" data-dismiss="modal">Hủy bỏ</button>
-					</div>
-					<div class="col-6 align-self-center">
+					<div class="col align-self-center">
 						<button type="button" class="btn btn-primary" data-dismiss="modal">Đồng ý</button>
 					</div>
 				</div>
