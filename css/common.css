@@ -1,4 +1,4 @@
-/*@import 'library'; */
+/*@import 'library';*/
 .shadow-navigation {
   -webkit-box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
@@ -359,6 +359,7 @@ ul {
   margin: auto;
   height: 1.925rem;
   line-height: 1.925rem;
+  margin-bottom: 1.1rem;
 }
 .btn-primary {
   background-color: #ffd200;
