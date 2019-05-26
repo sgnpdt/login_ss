@@ -442,7 +442,7 @@ ul {
 .hc-input-single label {
   font-weight: normal;
   cursor: pointer;
-  font-size: 0.775em;
+  font-size: 0.885em;
   color: #fff;
 }
 .hc-input-single label:before,
@@ -1273,15 +1273,17 @@ input:-ms-input-placeholder {
 @media (max-width: 320px) {
   .div_input_pos_signup {
     margin-top: 8px;
+    width: 100%;
   }
   .group_bottom {
     top: 70%;
   }
   .policy {
     margin-top: 16px;
+    width: 100%;
   }
   .btn_cus {
-    width: 85%;
+    width: 100%;
   }
   .div_lienket_hopdong {
     margin-top: 32px;
@@ -1296,6 +1298,11 @@ input:-ms-input-placeholder {
     padding-bottom: 0.8rem;
   }
   .modal-270 .text {
-    font-size: 0.885em;
+    font-size: 1em;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width: 320px), only screen and (min--moz-device-pixel-ratio: 2) and (max-width: 320px), only screen and (-o-min-device-pixel-ratio: 2/1) and (max-width: 320px), only screen and (min-device-pixel-ratio: 2) and (max-width: 320px), only screen and (min-resolution: 192dpi) and (max-width: 320px), only screen and (min-resolution: 2dppx) and (max-width: 320px) {
+  html {
+    font-size: 120%;
   }
 }

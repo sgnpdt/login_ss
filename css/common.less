@@ -180,7 +180,7 @@ ul{margin: 0;padding: 0;}
 .hc-input-single label {
   font-weight: normal;
   cursor: pointer;
-  font-size: 0.775em;color: #fff;
+  font-size: 0.885em;color: #fff;
 }
 .hc-input-single label:before,
 .hc-input-single label:after {
@@ -501,10 +501,10 @@ input:-ms-input-placeholder {
 		
 }
 @media (max-width: 320px){
-	.div_input_pos_signup{margin-top: 8px;}	
+	.div_input_pos_signup{margin-top: 8px;width: 100%}	
 	.group_bottom{top:70%;}
-	.policy{margin-top: 16px;}
-	.btn_cus{width: 85%;}
+	.policy{margin-top: 16px;width: 100%;}
+	.btn_cus{width: 100%;}
 	.div_lienket_hopdong{margin-top: 32px;}
 }
 @media
@@ -518,5 +518,18 @@ only screen and (                min-resolution: 2dppx)  and (min-width: 320px) 
 	html{font-size: 137%;}
 	.list_device .list-group-item{    padding-top: 0.8rem;
     padding-bottom: 0.8rem;}
-	.modal-270 .text{font-size: 0.885em;}
+	.modal-270 .text{font-size: 1em;}
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (max-width: 320px),
+only screen and (        min-device-pixel-ratio: 2)      and (max-width: 320px),
+only screen and (                min-resolution: 192dpi) and (max-width: 320px),
+only screen and (                min-resolution: 2dppx)  and (max-width: 320px) { 
+
+	html{font-size: 120%;}
+	
+}
+
