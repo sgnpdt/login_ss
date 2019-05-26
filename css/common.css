@@ -1,3 +1,4 @@
+/*@import 'library'; */
 .shadow-navigation {
   -webkit-box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
@@ -1221,10 +1222,11 @@ input:-ms-input-placeholder {
   width: 85%;
   display: block;
   margin: 80px auto 0 auto;
-  height: 210px;
+  height: 160px;
 }
 .div_input_pos_signup {
   margin-top: 24px;
+  height: 200px;
 }
 .title_success {
   font-size: 1.5em;
@@ -1234,6 +1236,9 @@ input:-ms-input-placeholder {
 }
 .bg_limited {
   margin-bottom: 24px;
+}
+.text_limited {
+  font-size: 0.885em;
 }
 @media (max-width: 320px) {
   .div_input_pos_signup {
